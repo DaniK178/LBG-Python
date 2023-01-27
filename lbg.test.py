@@ -135,3 +135,5 @@ class MyLbgApiTestCase(unittest.TestCase):
 # module import protection
 if __name__ == '__main__':
     unittest.main(verbosity=2)
+
+#adding some lines for the week 1 projects, for deletion later,  for  revertion
